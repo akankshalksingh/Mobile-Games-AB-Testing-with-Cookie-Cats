@@ -1,1 +1,3 @@
-# Mobile-Games-AB-Testing-with-Cookie-Cats
+# Mobile Games AB Testing with Cookie Cats
+
+In this project, I have used of Python and bootstrap analysis to tackle the challenge of optimizing player retention in the popular mobile game "Cookie Cats." By conducting an AB test that shifted the game's first progression gate from level 30 to 40, we analyzed the impact on player engagement using Python's Pandas for data handling and Matplotlib for visualization. Our findings, rooted in data-driven insights, revealed that the original gate placement at level 30 was more conducive to retaining players, highlighting the significance of strategic decision-making based on robust statistical analysis in enhancing game design and player experience.
